@@ -1,29 +1,68 @@
-<div align="center">👋 Olá! Eu sou o <strong>Johann Silva</strong></div>
-<div align="center"> 
-👨‍💻 Desenvolvedor Back-end em formação
-🎓 Estudante de Engenharia de Software
-🚀 Focado em Java, Spring Boot e Python
-</div>
-<div align="center">🚀 Tecnologias que utilizo</div>
-<br/> <div align="center"> <table> <tr> <td align="center"><strong>Java</strong><br><br> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="80"> </td> <td align="center"><strong>Python</strong><br><br> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"> </td> <td align="center"><strong>Spring Boot</strong><br><br> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="120"> </td> </tr> <tr> <td align="center"><strong>MySQL</strong><br><br> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="80"> </td> <td align="center"><strong>PostgreSQL</strong><br><br> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80"> </td> <td align="center"><strong>Git & GitHub</strong><br><br> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="70"> </td> </tr> </table> </div>
-<div align="center">🧠 Sobre mim</div>
-<div align="center">
-✨ Estudando Java + Spring Boot para Back-end
-🔥 Apaixonado por APIs REST, banco de dados e arquitetura
-🎯 Buscando minha primeira oportunidade como Dev Back-end
-</div>
-<div align="center">🛠️ Projetos em Destaque</div>
-<div align="center">
-🐾 Sistema de Pet Shop (em desenvolvimento)
-API REST em Java + Spring Boot com CRUD completo.
-🗂️ API de Categorias e Tarefas
-CRUD, tratamento de erros e boas práticas.
-</div>
-<div align="center">📊 Estatísticas do GitHub</div>
 <div align="center">
 
-</div>
-<div align="center">📬 Contato</div>
-<div align="center">
+  # Olá, eu sou o Johann Matheus!
+
+  <!-- Efeito de digitação no cabeçalho -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+%2F+Full-stack;Estudante+de+Engenharia+de+Software;Focado+em+Java%2C+Spring+Boot+e+Ecossistema+Web" alt="Typing SVG" />
+  </a>
 
 </div>
+
+---
+
+### Sobre mim
+
+*  Graduando em **Engenharia de Software**
+*  Desenvolvedor focado em **Java**, **Spring Boot**, **Python** e desenvolvimento web (React / Next.js)
+*  Apaixonado por arquitetura de APIs REST, microsserviços e banco de dados
+*  Em busca de evolução constante e novos desafios no mercado de tecnologia
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens & Back-end**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Banco de Dados**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Ferramentas & Versionamento**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+###  Projetos em Destaque
+
+<details>
+  <summary><b>🐾 Sistema de Pet Shop (API REST)</b></summary>
+  <br>
+  API desenvolvida em <b>Java + Spring Boot</b> com suporte a CRUD completo, tratamento centralizado de erros e validações.
+</details>
+
+<details>
+  <summary><b>📋 Task Manager API</b></summary>
+  <br>
+  Gerenciador de tarefas e categorias com arquitetura em camadas, utilizando Java 21, Spring Boot e MySQL.
+</details>
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JohannMatheusDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannMatheusDev&layout=compact&theme=dark" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
