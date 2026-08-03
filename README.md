@@ -46,7 +46,7 @@
 </details>
 
 <details>
-  <summary><b>📋 Task Manager API</b></summary>
+  <summary><b> Task Manager API</b></summary>
   <br>
   Gerenciador de tarefas e categorias com arquitetura em camadas, utilizando Java 21, Spring Boot e MySQL.
 </details>
@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Vamos nos conectar!
+### Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JohannPedroso)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johannsilva2017@gmail.com)
